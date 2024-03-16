@@ -1,0 +1,18 @@
+.list-item {
+  list-style-type: none;
+  margin: 10px;
+}
+.normalBtn {
+  cursor: pointer;
+  outline: none;
+  padding: 15px;
+  border-radius: 8px;
+  border: 1px solid #db1c48;
+  background-color: transparent;
+  font-size: 15px;
+  font-weight: bold;
+}
+.activeBtn {
+  background: #db1c48;
+  color: #ffffff;
+}
